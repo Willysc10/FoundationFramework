@@ -1,2 +1,1 @@
-# FoundationFramework
-Professional FoundationFramework ecosystem with FoundationFramework-optimized auto-scaling and enterprise containerization capabilities
+.
